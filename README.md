@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1920-build-array-from-permutation](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
