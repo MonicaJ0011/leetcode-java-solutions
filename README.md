@@ -42,7 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1528-shuffle-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
