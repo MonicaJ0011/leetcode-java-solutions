@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0202-happy-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1952-three-divisors](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1952-three-divisors) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0202-happy-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1952-three-divisors) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
