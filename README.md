@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0001-two-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
