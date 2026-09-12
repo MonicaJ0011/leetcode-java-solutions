@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0202-happy-number) |
 ## Enumeration
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
