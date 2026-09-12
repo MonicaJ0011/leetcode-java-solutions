@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/0202-happy-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1952-three-divisors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MonicaJ0011/leetcode-java-solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
